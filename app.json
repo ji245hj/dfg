@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/ji245hj/dfg",
+  "repository": "https://github.com/ji245hj/dfg",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
